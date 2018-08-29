@@ -4,7 +4,7 @@
 <%@page import="authority.individual.DataIndividual"%> 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <%--
-	@author:高杨
+	@author:beastsam
 	日期：2018.8
 	功能：个人用户权限返回界面，接收LoginServlet返回的session以及用户现有权限信息（权限名，权限ID）
 		   首先判断session状态，如果session值为空，则说明登录过期，重新跳转至登录界面
