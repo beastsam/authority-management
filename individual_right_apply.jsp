@@ -4,7 +4,7 @@
 <%@page import="authority.individual.DataIndividual"%> 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <%--
-	@author:高杨
+	@author:beastsam
 	@date: 2018.8.21
 	@Description:
 	功能：权限申请页面
