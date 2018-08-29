@@ -8,10 +8,8 @@
 <title>权限管理主页</title>
 </head>
 <body>
-
 <a href="CookieVerify">个人登录页面</a> 
 <a href="index_individual.jsp">企业登录页面</a> 
 <a href="index_individual.jsp">管理员登录页面</a> 
-
 </body>
 </html>
